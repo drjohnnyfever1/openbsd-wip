@@ -21,7 +21,7 @@ SHARED_LIBS +=	mozsqlite3                1.0 # 1.0
 SHARED_LIBS +=	xul                       1.0 # 1.0
 
 HOMEPAGE =	https://www.palemoon.org/
-MAINTAINER =	Brian Callahan <bcallah@openbsd.org>
+MAINTAINER =	Some Guy
 
 # MPL 2.0
 PERMIT_PACKAGE_CDROM =	Yes
