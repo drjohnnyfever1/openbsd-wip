@@ -1,14 +1,5 @@
-openbsd-wip - work in progress ports for OpenBSD
-======================
-
-This tree is to be used to maintain and eventually migrate ports into the
-official OpenBSD ports tree. This means that ports in this tree are actively
-worked on and may not always build, though of course it's best to aim for
-building ports.
-
-The goal of this exercise is to get more people actively involved in ports. As
-well as having a tool to better keep track of (half-)finished ports out there.
-Instead of having it rot in a corner of a mailinglist.
+This repository is IN NO WAY AFFILIATED with OpenBSD. This is an 
+unofficial ports tree maintained independently from OpenBSD ports.
 
 Updated ports
 ==================================
@@ -101,10 +92,3 @@ or set the following option in `.git/config` in your local openbsd-wip repo
 Users of `py-hg-git` may update the tree issuing:
 
 	hg pull --rebase
-
-How to contribute
-==================================
-
-Please let me know if you need write access to this repository. But please
-stick the workflow outlined in this document as well the pointers in
-<https://openbsd.org/porting.html>
